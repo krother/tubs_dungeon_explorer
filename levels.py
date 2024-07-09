@@ -35,3 +35,5 @@ LEVEL_TWO = parse_level(
         "##########",
     ]
 )
+
+LEVELS = [LEVEL_ONE, LEVEL_TWO]
